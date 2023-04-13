@@ -1,2 +1,2 @@
-# unit-conversions
-Some simple unit conversions in mathematics
+# mathematics
+Some simple unit conversions + Calculations in mathematics
